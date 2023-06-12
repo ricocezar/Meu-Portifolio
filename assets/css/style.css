@@ -1,0 +1,79 @@
+body {
+    color: rgb(53, 53, 53);
+    background-color: rgb(251, 251, 249);
+}
+
+#menu li { 
+    display: inline;
+    padding: 20px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: rgb(84, 108, 160);
+}
+
+.center {
+    text-align: center;
+}
+
+.cor_t {
+    color: rgb(74, 91, 131);
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.p20{
+    padding: 20px;
+}
+
+.p10 {
+    padding: 10px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.fs18 {
+    font-size: 18px;
+}
+
+.br50 {
+    border-radius: 50%;
+}
+
+.wh {
+    width: 300px;
+    height: 300px;
+}
+
+.mb40 {
+    margin-bottom: 40px;
+}
+
+.tm-social {
+    width: 60px;
+    height: 60px;
+}
+
+.ml50 {
+    margin-left: 50px;
+}
+
+.video {
+    border-radius: 4%;
+}
+
+
+
